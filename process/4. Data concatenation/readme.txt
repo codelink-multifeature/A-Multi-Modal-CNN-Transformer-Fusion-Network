@@ -1,0 +1,1 @@
+1.Manually concatenate the previously extracted data, with the concatenation carried out by columns. For details, please refer to the template.
